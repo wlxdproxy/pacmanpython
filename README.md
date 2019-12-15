@@ -31,8 +31,9 @@
 
 # Bibliografia
  Tech With Tim. Python Path Finding Tutorial - Breadth First Search Algorithm. <https://youtu.be/hettiSrJjM4>. Acessado em: 25/11/2019.
+ 
  RUSSEL, Stuart. NORVING, Peter. 2013. Inteligencia Artificial
- Lenny. Teaching Pacman To Search With Depth First Search. <https://medium.com/@lennyboyatzis/ai-teaching-pacman-to-search-with-depth-first-search-ee57daf889ab>. 
-    Acessado em: 02/12/2019.
+ 
+ Lenny. Teaching Pacman To Search With Depth First Search. <https://medium.com/@lennyboyatzis/ai-teaching-pacman-to-search-with-depth-first-search-ee57daf889ab>. Acessado em: 02/12/2019.
 
 
