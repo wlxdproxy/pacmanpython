@@ -1,5 +1,5 @@
 # Faculdade Área 1 - Wyden  						                                          Salvador-BA 15/12/2019
-# Discplina: Inteligência Artificial
+# Disciplina: Inteligência Artificial
 # Professor: Arleys Castro
 # Aluno: Wladson Cedraz
 
